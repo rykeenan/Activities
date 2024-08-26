@@ -1,9 +1,9 @@
 # Activity: How to read a Wireshark TCP/HTTP log
 
-Scenario:
+
 ![Scenario](https://github.com/user-attachments/assets/7408b213-1db7-4fd6-a5d0-ff6e2066f970)
 
-Document:
+## Document:
 
 ![1](https://github.com/user-attachments/assets/e1d7c55d-5396-4800-808c-cf54eab5f039)
 
